@@ -7,8 +7,8 @@ Composer
 Node.js и npm (за компилиране на frontend assets)
 Инсталация
 Клонирайте репозиторито:
-git clone https://github.com/ivanOgnyanov/mvc-controllers-exercise.git
-cd mvc-controllers-exercise
+[git clone https://githubhttps://github.com/cyberyness/pet-adoption-system.git
+cd pet-adoption-system
 Инсталирайте PHP зависимостите:
 composer update
 Копирайте конфигурационния файл:
@@ -23,5 +23,5 @@ npm run build
 Стартиране
 Стартирайте локалния сървър:
 
-php artisan serve
-Приложението ще бъде достъпно на: http://localhost:8000
+php artisan serve --port=80
+Приложението ще бъде достъпно на: http://127.0.0.1
