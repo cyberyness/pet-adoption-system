@@ -7,7 +7,7 @@ Composer
 Node.js и npm (за компилиране на frontend assets)
 Инсталация
 Клонирайте репозиторито:
-[git clone https://githubhttps://github.com/cyberyness/pet-adoption-system.git
+git clone https://github.com/cyberyness/pet-adoption-system.git
 cd pet-adoption-system
 Инсталирайте PHP зависимостите:
 composer update
